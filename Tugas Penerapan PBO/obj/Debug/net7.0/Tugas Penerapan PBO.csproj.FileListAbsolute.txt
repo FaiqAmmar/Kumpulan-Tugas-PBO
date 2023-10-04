@@ -1,0 +1,14 @@
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\bin\Debug\net7.0\Tugas Penerapan PBO.exe
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\bin\Debug\net7.0\Tugas Penerapan PBO.deps.json
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\bin\Debug\net7.0\Tugas Penerapan PBO.runtimeconfig.json
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\bin\Debug\net7.0\Tugas Penerapan PBO.dll
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\bin\Debug\net7.0\Tugas Penerapan PBO.pdb
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.AssemblyInfoInputs.cache
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.AssemblyInfo.cs
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.csproj.CoreCompileInputs.cache
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.dll
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\refint\Tugas Penerapan PBO.dll
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.pdb
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\Tugas Penerapan PBO.genruntimeconfig.cache
+D:\Apps\Visual Studio Community C# source\Tugas Penerapan PBO\obj\Debug\net7.0\ref\Tugas Penerapan PBO.dll
